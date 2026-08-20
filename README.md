@@ -692,6 +692,4 @@ streamlit run app.py
 
 ---
 
-## License
 
-Add the appropriate project license here if applicable.
